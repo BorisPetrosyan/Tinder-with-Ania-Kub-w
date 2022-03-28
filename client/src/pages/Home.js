@@ -10,7 +10,6 @@ const Home = () => {
     const [isSignUp,setIsSignUp] =useState(true)
 
     const  handleClick = () => {
-        console.log(showModal)
         setShowModal(true)
         setIsSignUp(true)
     }

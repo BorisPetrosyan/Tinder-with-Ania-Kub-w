@@ -1,0 +1,17 @@
+Index: src/components/ChatHeader.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>const ChatHeader = () => {\r\n    return (\r\n        <div className='chat-container-header'>\r\n            <div className='profile'>\r\n                <div className='img-container'>\r\n                    <img src=''/>\r\n                </div>\r\n                <h3>UserName</h3>\r\n            </div>\r\n            <i className='log-out-icon'>⇦</i>\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default ChatHeader
+===================================================================
+diff --git a/src/components/ChatHeader.js b/src/components/ChatHeader.js
+--- a/src/components/ChatHeader.js	
++++ b/src/components/ChatHeader.js	
+@@ -3,7 +3,7 @@
+         <div className='chat-container-header'>
+             <div className='profile'>
+                 <div className='img-container'>
+-                    <img src=''/>
++                    <img src='' alt=''/>
+                 </div>
+                 <h3>UserName</h3>
+             </div>
