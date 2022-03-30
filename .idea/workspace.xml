@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="283993dd-a163-4fd7-a5ba-0c810641dd3e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/AuthModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/AuthModal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Chat.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Chat.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ChatContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ChatContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/ChatDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ChatDisplay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ChatHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ChatHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/ChatInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/ChatInput.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/components/MatchesDisplay.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/MatchesDisplay.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Dashboard.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/pages/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/OnBoarding.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/OnBoarding.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +42,7 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="npm.start:frontend">
+  <component name="RunManager" selected="npm.start:backend">
     <configuration name="start:backend" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/server/package.json" />
       <command value="run" />
@@ -89,7 +81,8 @@
       <workItem from="1648278713684" duration="4094000" />
       <workItem from="1648284424255" duration="2024000" />
       <workItem from="1648372780878" duration="617000" />
-      <workItem from="1648532420202" duration="21029000" />
+      <workItem from="1648532420202" duration="22269000" />
+      <workItem from="1648620825555" duration="1801000" />
     </task>
     <servers />
   </component>
